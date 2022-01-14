@@ -1,9 +1,13 @@
 {
 	"author": "Raquel Watson",
-	"version": "^1.0",
+	"description": "A project to learn package.json",
+	"version": "1.0",
 	"name": "fcc-learn-npm-package-json",
+	"keywords": [ "packagejson", "codecamp", "learn npm" ],
+	"license": "GPL",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"moment": "^2.10.0"
 	},
 	"main": "server.js",
 	"scripts": {
